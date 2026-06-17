@@ -11,6 +11,8 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 - `Glide HQ/Company Context.md`
 - `Glide HQ/Marketing Context.md`
 - `Glide HQ/Marketing Lead Brief.md`
+- `Glide HQ/Source Map.md`
+- `Glide HQ/Content Library.md`
 - `Glide HQ/Daily Watchlist.md`
 - `Glide HQ/Connector Inventory.md`
 - `Glide HQ/Checklists/Daily Marketing Check-In.md`
@@ -18,14 +20,13 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 - `Glide HQ/Decision Log.md`
 - `Glide HQ/Questions Queue.md`
 - `Glide HQ/Contradiction Register.md`
-- Relevant area files
 - Configured connectors when safe and useful
 
 ## Process
 
 1. Confirm the approval boundary from `AGENTS.md` and `Marketing Lead Brief.md`; do not post marketing material or change external systems without approval.
 2. Run `$glide-update-marketing-context` when recent durable signal should shape the check-in.
-3. Scan `Daily Watchlist.md`, priorities, follow-through, decisions, questions, contradictions, and relevant area files.
+3. Scan `Daily Watchlist.md`, priorities, follow-through, decisions, questions, and contradictions.
 4. Review `Follow-Through Ledger.md` for due, stale, high-stakes, or newly actionable items.
 5. Fetch from configured connectors only when the watchlist or current context makes it useful.
 6. Choose the smallest useful output.

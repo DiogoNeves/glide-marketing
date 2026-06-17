@@ -1,4 +1,0 @@
-interface:
-  display_name: "Create Decision Packet"
-  short_description: "Marketing operating workflow"
-  default_prompt: "Use $glide-create-decision-packet for this marketing workflow."

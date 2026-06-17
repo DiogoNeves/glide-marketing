@@ -1,6 +1,6 @@
 ---
 name: glide-update-marketing-context
-description: Refresh Glide HQ/Marketing Context.md, Company Context.md, and Marketing Lead Brief.md from durable marketing signal. Use after positioning work, customer research, metric reviews, campaign updates, GTM changes, channel experiments, or daily/weekly reviews reveal context that should shape future advice.
+description: Refresh Glide HQ source, content, company, marketing, and lead context from durable marketing signal. Use after positioning work, customer research, metric reviews, source changes, content updates, channel experiments, or daily checks reveal context that should shape future advice.
 ---
 
 # Glide Update Marketing Context
@@ -11,8 +11,10 @@ description: Refresh Glide HQ/Marketing Context.md, Company Context.md, and Mark
 - `Glide HQ/Company Context.md`
 - `Glide HQ/Marketing Context.md`
 - `Glide HQ/Marketing Lead Brief.md`
+- `Glide HQ/Source Map.md`
+- `Glide HQ/Content Library.md`
 - `Glide HQ/Checklists/Update Marketing Context.md`
-- Relevant decisions, research, area files, questions, contradictions, and follow-through items
+- Relevant decisions, research, questions, contradictions, and follow-through items
 
 ## Process
 

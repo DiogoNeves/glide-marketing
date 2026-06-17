@@ -2,6 +2,6 @@
 
 Questions whose answers would materially improve future recommendations.
 
-| Question | Area | Why It Matters | Urgency | Status |
+| Question | Source / Topic | Why It Matters | Urgency | Status |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |

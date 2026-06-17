@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Marketing Skill"
+  short_description: "Research and encode a marketing workflow"
+  default_prompt: "Use $glide-create-marketing-skill to research a repeatable marketing process and turn it into a Glide skill."

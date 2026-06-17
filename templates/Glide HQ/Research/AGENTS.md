@@ -1,6 +1,6 @@
 # Research Instructions
 
-Use research to improve company decisions, strategy, customer understanding, GTM, product, fundraising, hiring, and operations.
+Use research to improve marketing decisions, customer understanding, positioning, content, channels, signal tracking, and reusable marketing skills.
 
 ## Process
 
@@ -8,4 +8,4 @@ Use research to improve company decisions, strategy, customer understanding, GTM
 - Use subagents or parallel tracks for broad research when available.
 - Separate company facts, customer signal, expert practice, empirical evidence, primary sources, and weak signals.
 - Prefer primary sources and current sources when the answer may have changed.
-- Recommend updates to `Company Context.md`, relevant areas, or `Research Index.md` when useful.
+- Recommend updates to `Source Map.md`, `Content Library.md`, `Company Context.md`, `Marketing Context.md`, or `Research Index.md` when useful.

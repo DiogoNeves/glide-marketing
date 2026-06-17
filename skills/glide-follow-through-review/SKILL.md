@@ -11,7 +11,7 @@ description: Review promises, waiting threads, commitments, and important loops 
 - `Glide HQ/Connector Inventory.md`
 - `Glide HQ/Follow-Through Ledger.md`
 - `Glide HQ/Open Loops.md`
-- Relevant area files
+- Relevant source, content, and marketing context
 - Configured email, calendar, CRM, project, GitHub, docs, and support connectors when useful
 
 ## Process

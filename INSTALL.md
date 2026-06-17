@@ -9,10 +9,10 @@ The installer should:
 1. Start from the root of the target Markdown workspace, company repo, or shared docs folder.
 2. Inspect existing files without changing anything.
 3. Ask which harness is being used: Codex, Claude Code, other, or manual.
-4. Draft current pain, goals, process, company, and marketing context from existing materials when possible.
-5. Ask what the user wants checked daily.
-6. Work with the user to confirm Glide has access to the needed context and connectors.
-7. Ask focused questions to correct or fill the context.
+4. Ask where existing marketing sources and content live.
+5. Draft the source map, content library, company context, and marketing context.
+6. Ask what signals the user wants checked daily.
+7. Work with the user to confirm Glide has read access to the sources needed.
 8. Copy `Glide HQ/` and selected skills only after confirmation.
 9. Create or update the root harness instruction file.
 10. Inspect available harness connectors and record what is actually connected.
@@ -40,7 +40,7 @@ Inspect only. Check for:
 - `AGENTS.md`
 - `CLAUDE.md`
 - `.git/`
-- existing company docs, README files, product docs, strategy notes, customer notes, investor updates, pitch decks, metrics docs, and decision records
+- existing company docs, product docs, strategy notes, customer notes, website copy, blog posts, newsletters, social posts, videos, transcripts, sales docs, metrics docs, and decision records
 - configured connector docs, active connector/tool lists, MCP/app tools, or automation notes
 
 Summarize what exists and what Glide would need to create or update.
@@ -59,25 +59,36 @@ Recommended mappings:
 
 Create the root instruction file if missing. If it exists, append or update a clearly marked Glide section and leave unrelated instructions intact.
 
-## Step 3: Draft Pain, Goals, Process, Company, And Marketing Context
+## Step 3: Map Sources And Existing Content
 
 Prefer draft-then-ask.
 
-Read available materials and draft:
+Ask the user where useful marketing source material lives:
 
+- website,
+- blog or newsletter,
+- social posts,
+- videos, podcasts, or transcripts,
+- customer calls, support tickets, reviews, testimonials, or sales notes,
+- analytics, search, CRM, email, ads, or product data,
+- launch plans, positioning docs, decks, or strategy notes,
+- existing content drafts or idea backlog.
+
+Then draft:
+
+- `Glide HQ/Source Map.md`
+- `Glide HQ/Content Library.md`
 - `Glide HQ/Company Context.md`
 - `Glide HQ/Marketing Context.md`
 - `Glide HQ/Marketing Lead Brief.md`
 
 Then ask:
 
-- What is painful, noisy, slow, or repeatedly dropped right now?
-- What goals should marketing help move?
-- What is the current process for planning, execution, review, and follow-through?
-- What is wrong?
-- What is missing?
-- What is uncertain?
-- What should marketing optimize for right now?
+- Which sources matter most?
+- Which sources are off-limits?
+- Which existing content should Glide learn from first?
+- What marketing outcome should daily updates support?
+- What is wrong, missing, or uncertain in the draft context?
 
 Do not turn missing fields into homework. Ask only the questions that materially improve early recommendations or daily operation.
 
@@ -90,6 +101,8 @@ Examples:
 - campaign performance,
 - new leads or pipeline movement,
 - customer replies or support signal,
+- content ideas or reuse opportunities,
+- newsletter, blog, social, video, or community signal,
 - SEO/search changes,
 - analytics anomalies,
 - content or launch follow-through,
@@ -117,19 +130,18 @@ After confirmation:
 3. Create or update the root harness instruction file with the relevant adapter snippet.
 4. Record installed skills and proposed automations in `Glide HQ/Automation Registry.md`.
 5. Create or update `Glide HQ/Connector Inventory.md` from the connectors actually visible to the harness.
-6. Create or update `Glide HQ/Daily Watchlist.md` from the user's desired daily checks.
-7. Confirm `Glide HQ/Follow-Through Ledger.md` has a clear first set of watched commitments or is intentionally empty.
-8. If the workspace is not already a git repository, run `git init` after confirmation.
-9. Add the Glide root instruction section telling agents to keep useful content and harness updates committed with very short commit messages.
-10. Keep scheduled automation prompts minimal; detailed behavior belongs in installed Glide skills and checklists.
+6. Create or update `Glide HQ/Source Map.md` and `Glide HQ/Content Library.md`.
+7. Create or update `Glide HQ/Daily Watchlist.md` from the user's desired signals.
+8. Confirm `Glide HQ/Follow-Through Ledger.md` has a clear first set of watched commitments or is intentionally empty.
+9. If the workspace is not already a git repository, run `git init` after confirmation.
+10. Add the Glide root instruction section telling agents to keep useful content and harness updates committed with very short commit messages.
+11. Keep scheduled automation prompts minimal; detailed behavior belongs in installed Glide skills and checklists.
 
 ## Step 6: Offer Starter Automations
 
 Offer only:
 
 - Daily Marketing Check-In
-- Weekly Marketing Review
-- Follow-Through Review
 - Marketing Drift Review
 
 Confirm before enabling any automation. If the harness does not support automations, keep the prompts as proposed manual automations in `Glide HQ/Automations/`.
@@ -149,7 +161,7 @@ If the workspace has no git repository, initialize one after installation confir
 Root harness instructions should say:
 
 - Keep meaningful Glide content, context, checklist, skill, automation, and harness updates committed.
-- Use very brief commit messages, such as `Update company context`, `Add GTM question`, `Refresh follow-through`, or `Tighten harness rules`.
+- Use very brief commit messages, such as `Update source map`, `Add content source`, `Refresh follow-through`, or `Tighten harness rules`.
 - Commit user-requested daily-check behavior changes in the installed workspace git repo.
 - Do not commit secrets, credentials, private exports, raw transcripts, or connector data dumps.
 - Do not push unless the user or workspace policy says to push.

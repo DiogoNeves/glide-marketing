@@ -1,22 +1,22 @@
 # Glide Concept
 
-Glide Marketing is an agent-readable operating layer for marketing teams, founders, and growth operators.
+Glide Marketing is an agent-readable marketing layer for teams, founders, and growth operators.
 
 It is built from Markdown files, wiki-style links, skills, checklists, and optional automations. It does not require Obsidian. Any folder or repo that an agent harness can read can become a Glide workspace.
 
 ## Core Idea
 
-The company needs durable context:
+The agent needs durable marketing context:
 
-- what the company is,
-- who it serves,
-- what it is trying to prove,
-- what decisions have been made,
-- what is still uncertain,
+- what sources it can read,
+- what existing content should shape future drafts,
+- who the product serves,
+- what signals matter,
 - what needs follow-through,
-- what contradictions are emerging.
+- what contradictions are emerging,
+- what repeatable marketing skills should exist.
 
-Glide keeps that context current enough for an agent to act like a useful operating partner.
+Glide keeps that context current enough for an agent to research, draft, and surface useful daily signal.
 
 ## Boundary
 

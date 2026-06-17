@@ -14,7 +14,6 @@ Purpose: run a concise daily pass that improves company context, surfaces one us
 - `Decision Log.md`
 - `Questions Queue.md`
 - `Contradiction Register.md`
-- Relevant area files
 - Configured connectors when safe and useful
 
 ## Morning Pass
@@ -28,7 +27,6 @@ Check:
 - open decisions,
 - high-impact questions,
 - contradictions,
-- area reminders or reviews,
 - calendar, email, CRM, analytics, product, project, or support sources when configured.
 
 ## Output

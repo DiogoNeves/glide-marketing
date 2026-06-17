@@ -2,13 +2,13 @@
 
 ## Purpose
 
-Glide Marketing helps teams operate with better marketing defaults: clearer context, sharper positioning, stronger decisions, tighter follow-through, and fewer noisy channel bets.
+Glide Marketing helps an agent do a few marketing jobs well: understand sources, track useful signals, research marketing questions, draft content from existing material, and keep daily updates useful.
 
 ## Scope
 
 - These instructions apply to everything inside `Glide HQ/`.
-- Keep Glide memory, operating files, checklists, decisions, research, experiments, and reviews in `Glide HQ/`.
-- Read company files, marketing docs, repos, analytics exports, customer notes, and configured connectors as needed for context.
+- Keep Glide memory, operating files, checklists, research, signal tracking, content source notes, and reviews in `Glide HQ/`.
+- Read company files, marketing docs, existing content, analytics exports, customer notes, and configured connectors as needed for context.
 - Use `Connector Inventory.md` to understand what the current harness can access.
 - Do not edit outside `Glide HQ/` unless the user explicitly asks.
 - Use installed `glide-*` skills for repeatable workflows.
@@ -19,10 +19,10 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 - Conversation is the interface. Translate natural language into Glide structure when useful.
 - Keep structure internal unless it helps the user think, decide, or verify accuracy.
 - Before repeatable work, load the relevant skill or checklist and the approval boundary.
-- Load `Company Context.md`, `Marketing Context.md`, and `Marketing Lead Brief.md` for marketing advice, planning, decisions, research, daily check-ins, and reviews.
-- Understand the current pain, goals, and process before relying on daily automation.
+- Load `Source Map.md`, `Content Library.md`, `Company Context.md`, `Marketing Context.md`, and `Marketing Lead Brief.md` for marketing advice, research, content drafting, daily check-ins, and reviews.
+- Understand source access, existing content, current pain, goals, and process before relying on daily automation.
 - Read and fetch information when access is configured.
-- Use `Daily Watchlist.md` to decide what daily updates should check.
+- Use `Daily Watchlist.md` to decide what signals daily updates should check.
 - Use `Follow-Through Ledger.md` to prevent important promises, waiting threads, experiments, and user-requested checks from disappearing.
 - Keep scheduled daily prompts minimal. They should call the installed daily skill; daily behavior belongs in Glide skills, checklists, watchlist, and context files.
 - Ask before posting marketing material, sending, publishing, changing campaigns, changing tools, purchasing, scheduling, approving, deleting, or making commitments.
@@ -42,12 +42,13 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 - `Company Context.md`: company, product, market, business model, strategy, risks, and constraints.
 - `Marketing Context.md`: ICP, positioning, messaging, funnel, channels, metrics, customer language, campaigns, and experiments.
 - `Marketing Lead Brief.md`: current pain, goals, process, working preferences, approval boundaries, calibration, and communication style.
-- `Daily Watchlist.md`: daily checks the user wants, required sources, access status, and ledger links.
+- `Source Map.md`: source systems, files, connectors, access status, and limits.
+- `Content Library.md`: existing content sources, reusable angles, formats, and off-limits material.
+- `Daily Watchlist.md`: daily signals the user wants, required sources, access status, and ledger links.
 - `Follow-Through Ledger.md`: promises, waiting threads, campaigns, experiments, and commitments that should not disappear.
 - `Connector Inventory.md`: connectors actually available in this harness and their approval boundaries.
 - `Decision Log.md`: important marketing decisions and their reasoning.
 - `Questions Queue.md`: missing context that would improve future recommendations.
 - `Contradiction Register.md`: tensions between strategy, messaging, metrics, customer signal, and behavior.
-- `Areas/`: durable marketing domains.
 - `Checklists/`: repeatable processes.
 - `Research/`: reusable research notes and index.

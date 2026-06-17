@@ -1,5 +1,5 @@
 # Research Index
 
-| Topic | Area | Status | Key Takeaway | Source Note |
+| Topic | Marketing Use | Status | Key Takeaway | Source Note |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |

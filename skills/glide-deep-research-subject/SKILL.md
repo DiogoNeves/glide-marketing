@@ -1,6 +1,6 @@
 ---
 name: glide-deep-research-subject
-description: Research a business subject deeply for marketing decisions. Use for market, customer, competitor, GTM, product, finance, fundraising, hiring, pricing, operations, or strategic research that should update Glide HQ.
+description: Research a marketing subject deeply. Use for market, customer, competitor, positioning, content, SEO, channel, launch, pricing-page, or messaging research that should improve marketing decisions or create a reusable marketing skill.
 ---
 
 # Glide Deep Research Subject
@@ -8,19 +8,21 @@ description: Research a business subject deeply for marketing decisions. Use for
 ## Load
 
 - `Glide HQ/AGENTS.md`
+- `Glide HQ/Source Map.md`
 - `Glide HQ/Company Context.md`
+- `Glide HQ/Marketing Context.md`
 - `Glide HQ/Marketing Lead Brief.md`
 - `Glide HQ/Research/AGENTS.md`
 - `Glide HQ/Research/Research Index.md`
-- Relevant area files
+- Relevant source and content notes
 
 ## Process
 
-1. Define the decision or question the research should inform.
+1. Define the marketing decision, draft, signal, or repeatable skill the research should inform.
 2. Use parallel research tracks when useful and available.
 3. Separate company facts, customer signal, expert practice, empirical evidence, primary sources, and weak signals.
 4. Prefer current and primary sources when facts may have changed.
-5. Recommend company context, area, research index, decision, or question updates.
+5. Recommend source map, content library, marketing context, research index, decision, or question updates.
 
 ## Output
 

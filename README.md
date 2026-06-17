@@ -1,33 +1,35 @@
 # Glide Marketing
 
-Glide Marketing is a Markdown operating system for marketing teams, marketing leads, and growth operators.
+Glide Marketing is a small Markdown kit for giving an AI agent useful marketing context.
 
-It gives an AI agent a durable home for marketing context, positioning, customer language, GTM plans, channel work, experiments, decisions, research, and follow-through. The point is simple: stop repeating context, make better marketing decisions, and keep useful work moving without turning marketing into more admin.
+It helps an agent understand your existing sources, track the signals you care about, research marketing questions, and draft content from material you already have.
 
 Glide Marketing is not an app or SaaS. It is a public set of Markdown templates, skills, checklists, and automation prompts that works with Codex, Claude Code, or another agent harness. Your harness is the execution layer; Glide defines the operating behavior.
 
 ## Why It Exists
 
-Marketing work gets noisy quickly: positioning, ICP, campaigns, channels, analytics, customer research, content, launches, sales enablement, and half-finished experiments all compete for attention.
+Marketing work gets noisy quickly: sources live everywhere, useful signal is easy to miss, and content work gets worse when the agent does not know what already exists.
 
-Glide Marketing turns that into an agent-readable operating layer. The agent can read, research, synthesize, challenge, draft, and maintain context over time. It can fetch information when access is configured, but it should ask before posting marketing material, sending, changing campaigns, publishing, purchasing, scheduling, approving, or making commitments.
+Glide Marketing gives the agent a simple base: source map, marketing context, daily watchlist, follow-through ledger, research notes, and utility skills. It can read and draft when access is configured, but it must ask before posting marketing material, sending, changing campaigns, publishing, purchasing, scheduling, approving, or making commitments.
 
 ## A Small Example
 
-A marketing lead asks: "What should we do about our weak activation?"
+A founder asks: "Turn my last three posts and customer notes into a launch email draft."
 
-Glide loads company context, marketing context, GTM, analytics, lifecycle, customer research, decisions, contradictions, and follow-through. It gives a direct read, names the missing evidence, suggests the next experiment or customer check, and updates the right Markdown files as the conversation progresses.
+Glide checks the source map, uses the content library, applies the current positioning, drafts from existing material, and points out what still needs approval or better source context.
 
 ## How It Works
 
 - `Glide HQ/` is the agent-owned marketing operating workspace.
+- `Source Map.md` tells the agent what it can read and how.
+- `Content Library.md` records the user's existing content sources.
 - `Company Context.md` captures product, market, business model, strategy, and constraints.
-- `Marketing Context.md` captures positioning, ICP, messaging, channels, funnel, metrics, customer language, and active experiments.
+- `Marketing Context.md` captures positioning, audience, customer language, channels, and metrics.
 - `Marketing Lead Brief.md` captures working preferences, approval boundaries, and calibration.
-- Areas cover Strategy, Positioning, Customer Research, GTM, Content, SEO, Paid, Lifecycle, Analytics, Website CRO, Sales Enablement, and Partnerships.
-- Skills and checklists encode repeatable marketing workflows.
-- Automations are optional prompts for daily, weekly, follow-through, and drift reviews.
-- Connectors are discovered from the user's harness during setup; Glide records what is actually available and how it may be used safely.
+- `Daily Watchlist.md` tracks the signals the user wants checked.
+- `Follow-Through Ledger.md` keeps important marketing loops from disappearing.
+- Skills are utilities for setup, daily updates, research, content drafting, and creating new marketing-specific skills.
+- Automations are optional; start with daily check-in and drift review.
 
 Glide keeps its internal memory and working structure in `Glide HQ/`. It can read company docs, repos, tools, and external sources when allowed, but it should not modify external systems without explicit approval.
 
@@ -46,7 +48,7 @@ During setup and the first few daily check-ins, Glide tries to understand the cu
 
 Open the target Markdown workspace, marketing repo, company repo, or shared docs folder in your agent harness, then ask the harness to follow [INSTALL.md](INSTALL.md).
 
-The installer should inspect before writing, ask which harness to use, draft marketing context from existing materials when possible, then ask focused questions to correct and fill gaps.
+The installer should inspect before writing, ask which harness to use, ask where existing marketing sources and content live, draft the first context, and set up a useful daily check.
 
 ## Privacy
 

@@ -52,7 +52,7 @@ This is not a pitch deck. Keep it accurate, useful, and easy to refresh.
 
 **Differentiation:**
 
-## GTM
+## Distribution
 
 **Current channels:**
 
@@ -88,25 +88,9 @@ This is not a pitch deck. Keep it accurate, useful, and easy to refresh.
 
 **Risks:**
 
-## Team And Operating Model
-
-**Team:**
-
-**Decision owners:**
-
-**Operating cadence:**
-
-## Fundraising And Board Context
-
-**Fundraising state:**
-
-**Investor commitments or promises:**
-
-**Board / advisor context:**
-
 ## Open Questions
 
-- Add questions whose answers would materially improve company decisions.
+- Add questions whose answers would materially improve marketing decisions.
 
 ## Context Rules
 

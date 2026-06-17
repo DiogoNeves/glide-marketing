@@ -1,4 +1,0 @@
-interface:
-  display_name: "Run Area Review"
-  short_description: "Marketing operating workflow"
-  default_prompt: "Use $glide-run-area-review for this marketing workflow."

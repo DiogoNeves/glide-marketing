@@ -1,6 +1,6 @@
 {
   "name": "glide-marketing",
-  "description": "Marketing operating workflows for AI agents using Markdown context",
+  "description": "Markdown marketing context, daily signals, research, and content utility skills",
   "version": "0.1.0",
   "author": {
     "name": "Glide contributors"
@@ -10,4 +10,3 @@
   "license": "MIT",
   "skills": "./skills"
 }
-

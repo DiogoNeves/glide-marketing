@@ -1,8 +1,8 @@
 ## Glide
 
 - Glide lives in `Glide HQ/`.
-- For company context, marketing context, positioning, GTM, content, SEO, paid, lifecycle, analytics, CRO, sales enablement, decisions, follow-through, research, daily check-ins, weekly reviews, or automations, read `Glide HQ/AGENTS.md` before acting.
-- Load `Glide HQ/Company Context.md`, `Glide HQ/Marketing Context.md`, and `Glide HQ/Marketing Lead Brief.md` for marketing advice, decisions, strategy, and reviews.
+- For source access, existing content, marketing context, signal tracking, content drafting, research, daily check-ins, or automations, read `Glide HQ/AGENTS.md` before acting.
+- Load `Glide HQ/Source Map.md`, `Glide HQ/Content Library.md`, `Glide HQ/Company Context.md`, `Glide HQ/Marketing Context.md`, and `Glide HQ/Marketing Lead Brief.md` for marketing work.
 - Keep Glide memory and working files in `Glide HQ/`.
 - Do not edit outside `Glide HQ/` or the Glide skill folder unless the user explicitly asks.
 - Reading and fetching information through configured connectors is allowed.

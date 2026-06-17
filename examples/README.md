@@ -4,12 +4,12 @@ Short examples of Glide workflows.
 
 ## Daily Marketing Check-In
 
-The agent reads `Company Context.md`, `Marketing Lead Brief.md`, area reminders, questions, open decisions, and `Follow-Through Ledger.md`, then surfaces one useful question, risk, opportunity, or small action.
+The agent reads `Source Map.md`, `Content Library.md`, `Marketing Context.md`, `Daily Watchlist.md`, and `Follow-Through Ledger.md`, then surfaces one useful signal, question, risk, content opportunity, or follow-through nudge.
 
-## GTM Review
+## Marketing Research
 
-The agent checks GTM context, customers, sales signal, active experiments, contradictions, and research, then identifies the most important bottleneck or missing evidence.
+The agent researches a marketing question, separates strong evidence from weak signal, and updates research notes or suggests a reusable skill when the process should repeat.
 
-## Investor Update Draft
+## Content Draft
 
-The agent reads company context, metrics notes, decision log, and recent follow-through, then drafts an investor update for human review. It does not send it.
+The agent reads existing posts, newsletters, transcripts, or customer notes, then drafts a new asset for review. It does not post or publish it.

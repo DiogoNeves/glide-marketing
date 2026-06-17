@@ -5,7 +5,7 @@ Purpose: keep `Company Context.md` accurate without turning it into a dumping gr
 ## Update When
 
 - Company facts change.
-- Product, market, customer, GTM, pricing, team, funding, or metric context changes.
+- Product, market, customer, positioning, channel, source, content, or metric context changes.
 - A conversation reveals durable strategy or a repeated constraint.
 - Research changes a recommendation.
 - A contradiction or decision should affect future advice.

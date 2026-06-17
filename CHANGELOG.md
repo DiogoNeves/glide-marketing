@@ -4,11 +4,18 @@ Notable changes to Glide Marketing.
 
 ## 2026-06-17
 
+### Simplified Marketing Setup
+
+- Refocused setup on source access, existing content, daily signals, marketing research, content drafting, and drift review.
+- Added `Source Map.md` and `Content Library.md`.
+- Added utility skills for drafting from existing content and creating marketing-specific skills from researched processes.
+- Reduced starter automations to daily check-in and drift review.
+
 ### Hardened Daily And Ledger Rules
 
 - Added stronger daily preflight and approval-boundary checks.
 - Expanded the follow-through ledger schema with priority, next action, status, and escalation rules.
-- Tightened daily, weekly, follow-through, and drift reviews around ledger updates and minimal scheduled prompts.
+- Tightened daily, follow-through, and drift reviews around ledger updates and minimal scheduled prompts.
 
 ### Clarified Marketing Posting Approval
 
@@ -35,5 +42,5 @@ Notable changes to Glide Marketing.
 ### Initial Marketing Version
 
 - Created Glide Marketing from the Glide marketing base.
-- Added marketing-specific context, areas, skills, checklists, automations, and adapters.
+- Added marketing-specific context, skills, checklists, automations, and adapters.
 - Added first-week daily calibration, connector inventory, follow-through ledger, drift review, and human approval boundaries.

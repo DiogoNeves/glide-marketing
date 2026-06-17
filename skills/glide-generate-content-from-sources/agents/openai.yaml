@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Content From Sources"
+  short_description: "Draft marketing content from existing sources"
+  default_prompt: "Use $glide-generate-content-from-sources to draft a marketing asset from our existing content."
