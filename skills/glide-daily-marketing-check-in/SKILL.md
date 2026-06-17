@@ -23,14 +23,16 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 
 ## Process
 
-1. Run `$glide-update-marketing-context` when recent durable signal should shape the check-in.
-2. Scan `Daily Watchlist.md`, priorities, follow-through, decisions, questions, contradictions, and relevant area files.
-3. Fetch from configured connectors only when the watchlist or current context makes it useful.
-4. Choose the smallest useful output.
-5. During the first five daily check-ins, ask one useful direction question unless the user opts out. Focus on current pain, goals, process, missing access, signal quality, timing, tone, length, or preferred action level.
-6. Draft external actions only for approval.
-7. Keep the update brief, and offer one or two optional paths to explore more when there is a useful deeper thread.
-8. Update Glide HQ as the conversation progresses, including durable calibration preferences, watchlist changes, access gaps, and ledger updates.
+1. Confirm the approval boundary from `AGENTS.md` and `Marketing Lead Brief.md`; do not post marketing material or change external systems without approval.
+2. Run `$glide-update-marketing-context` when recent durable signal should shape the check-in.
+3. Scan `Daily Watchlist.md`, priorities, follow-through, decisions, questions, contradictions, and relevant area files.
+4. Review `Follow-Through Ledger.md` for due, stale, high-stakes, or newly actionable items.
+5. Fetch from configured connectors only when the watchlist or current context makes it useful.
+6. Choose the smallest useful output.
+7. During the first five daily check-ins, ask one useful direction question unless the user opts out. Focus on current pain, goals, process, missing access, signal quality, timing, tone, length, or preferred action level.
+8. Draft external actions only for approval.
+9. Keep the update brief, and offer one or two optional paths to explore more when there is a useful deeper thread.
+10. Update Glide HQ as the conversation progresses, including durable calibration preferences, watchlist changes, access gaps, and ledger updates.
 
 ## Automation Contract
 

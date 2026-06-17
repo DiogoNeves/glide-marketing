@@ -104,6 +104,7 @@ For each requested check:
 3. Check whether the harness already has read/fetch access.
 4. If access is missing, record the gap and ask how the user wants to provide it.
 5. Add any important ongoing commitment to `Follow-Through Ledger.md`.
+6. Confirm what should happen when the check finds something: ignore, mention, draft, add to ledger, or ask for approval.
 
 During the first five daily check-ins, ask for more direction each day unless the user opts out. Use the answers to refine pain, goals, process, watchlist, connector access, communication preferences, and ledger behavior.
 
@@ -117,9 +118,10 @@ After confirmation:
 4. Record installed skills and proposed automations in `Glide HQ/Automation Registry.md`.
 5. Create or update `Glide HQ/Connector Inventory.md` from the connectors actually visible to the harness.
 6. Create or update `Glide HQ/Daily Watchlist.md` from the user's desired daily checks.
-7. If the workspace is not already a git repository, run `git init` after confirmation.
-8. Add the Glide root instruction section telling agents to keep useful content and harness updates committed with very short commit messages.
-9. Keep scheduled automation prompts minimal; detailed behavior belongs in installed Glide skills and checklists.
+7. Confirm `Glide HQ/Follow-Through Ledger.md` has a clear first set of watched commitments or is intentionally empty.
+8. If the workspace is not already a git repository, run `git init` after confirmation.
+9. Add the Glide root instruction section telling agents to keep useful content and harness updates committed with very short commit messages.
+10. Keep scheduled automation prompts minimal; detailed behavior belongs in installed Glide skills and checklists.
 
 ## Step 6: Offer Starter Automations
 

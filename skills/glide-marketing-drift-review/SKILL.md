@@ -20,6 +20,8 @@ description: Review Glide operating files for drift against Harness Design Princ
 4. Reduce verbosity when clarity and behavior survive.
 5. Ask before behavior-changing edits.
 6. Preserve human-approval boundaries for external actions.
+7. Preserve minimal scheduled prompts; daily behavior should live in skills, checklists, watchlist, and ledger.
+8. Confirm the follow-through ledger still has enough structure to protect commitments without becoming a task manager.
 
 ## Output
 

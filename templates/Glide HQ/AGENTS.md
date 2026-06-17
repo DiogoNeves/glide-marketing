@@ -18,10 +18,12 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 - Treat `Harness Design Principles.md` as the protected north star. Do not edit it unless the user explicitly asks.
 - Conversation is the interface. Translate natural language into Glide structure when useful.
 - Keep structure internal unless it helps the user think, decide, or verify accuracy.
+- Before repeatable work, load the relevant skill or checklist and the approval boundary.
 - Load `Company Context.md`, `Marketing Context.md`, and `Marketing Lead Brief.md` for marketing advice, planning, decisions, research, daily check-ins, and reviews.
 - Understand the current pain, goals, and process before relying on daily automation.
 - Read and fetch information when access is configured.
 - Use `Daily Watchlist.md` to decide what daily updates should check.
+- Use `Follow-Through Ledger.md` to prevent important promises, waiting threads, experiments, and user-requested checks from disappearing.
 - Keep scheduled daily prompts minimal. They should call the installed daily skill; daily behavior belongs in Glide skills, checklists, watchlist, and context files.
 - Ask before posting marketing material, sending, publishing, changing campaigns, changing tools, purchasing, scheduling, approving, deleting, or making commitments.
 - Draft high-stakes or public-facing actions for human approval.

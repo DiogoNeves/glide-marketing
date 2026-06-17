@@ -11,13 +11,19 @@ This is not a task manager. Use it for follow-through quality.
 - Keep entries short.
 - Link to source context when useful.
 - Use external task/project tools for execution when the company uses them.
+- Every active item should have an owner, next check, signal to watch, status, and next action.
 - Close, simplify, or move stale items when they stop helping.
+- Do not send, post marketing material, or change external systems from a ledger item without approval.
 
 ## Active
 
-| Item | Source | Owner | Next Check | Signal To Watch | Status |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+Status values: `watching`, `waiting`, `due`, `blocked`, `drafted`, `approval-needed`, `closed`.
+
+Priority values: `high`, `medium`, `low`.
+
+| Item | Source | Owner | Priority | Next Check | Signal To Watch | Next Action | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
 
 ## Recently Closed
 
@@ -28,3 +34,9 @@ This is not a task manager. Use it for follow-through quality.
 ## Patterns
 
 - Add recurring follow-through patterns here.
+
+## Escalation Rules
+
+- Mention today: due, stale, high-stakes, newly actionable, or blocking a current goal.
+- Keep quiet: still-watching items with no useful change.
+- Ask the user: unclear owner, missing approval, ambiguous next step, or possible behavior change.

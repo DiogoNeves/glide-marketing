@@ -23,10 +23,11 @@ description: Run a weekly marketing review. Use when reviewing marketing progres
 
 1. Review what changed, shipped, sold, learned, or clarified.
 2. Inspect the most relevant metrics or customer signal when configured.
-3. Review stale follow-through and blocked decisions.
-4. Identify contradictions, risks, and missing evidence.
+3. Review stale follow-through, blocked decisions, and daily watchlist patterns.
+4. Identify contradictions, risks, missing evidence, and resource mismatches.
 5. Recommend one to three operating priorities for the coming week.
-6. Update Glide HQ after user confirmation or durable signal.
+6. Update the follow-through ledger for commitments, waiting threads, and items to stop watching.
+7. Update Glide HQ after user confirmation or durable signal.
 
 ## Output
 

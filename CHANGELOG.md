@@ -4,6 +4,12 @@ Notable changes to Glide Marketing.
 
 ## 2026-06-17
 
+### Hardened Daily And Ledger Rules
+
+- Added stronger daily preflight and approval-boundary checks.
+- Expanded the follow-through ledger schema with priority, next action, status, and escalation rules.
+- Tightened daily, weekly, follow-through, and drift reviews around ledger updates and minimal scheduled prompts.
+
 ### Clarified Marketing Posting Approval
 
 - Made explicit that marketing material must not be posted without user approval.

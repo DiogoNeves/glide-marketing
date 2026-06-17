@@ -21,9 +21,10 @@ Purpose: run a concise daily pass that improves company context, surfaces one us
 
 Check:
 
+- approval boundaries,
 - active marketing priorities,
 - daily watchlist checks,
-- follow-through ledger,
+- follow-through ledger due/stale/high-stakes items,
 - open decisions,
 - high-impact questions,
 - contradictions,
@@ -50,7 +51,8 @@ When there is more to unpack, add a brief invitation with one or two useful dire
 
 - Use `Daily Watchlist.md` as the default source for what to check.
 - If a requested check cannot run because context or connector access is missing, surface the gap only when it blocks a useful update or needs user action.
-- Update `Follow-Through Ledger.md` when a daily check creates, clarifies, advances, or closes a commitment.
+- Update `Follow-Through Ledger.md` when a daily check creates, clarifies, advances, closes, or stops needing attention.
+- Do not mention quiet ledger items unless they are due, stale, high-stakes, newly actionable, or useful for today's decision.
 - Add new daily-check preferences to `Daily Watchlist.md` as the user gives guidance.
 
 ## Scheduled Prompt

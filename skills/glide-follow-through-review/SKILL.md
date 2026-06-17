@@ -16,12 +16,14 @@ description: Review promises, waiting threads, commitments, and important loops 
 
 ## Process
 
-1. Review active ledger items.
+1. Review active ledger items by priority, next check, owner, and approval need.
 2. Fetch connector context only when it helps determine status or next step.
 3. Surface stale, due, high-stakes, or newly actionable items.
-4. Draft nudges, replies, or updates when useful.
-5. Ask before sending or changing external systems.
-6. Close or simplify ledger items only when clearly resolved or approved.
+4. For each surfaced item, decide: keep watching, ask user, draft for approval, update next check, or close.
+5. Draft nudges, replies, or updates when useful.
+6. Ask before sending, posting marketing material, or changing external systems.
+7. Close or simplify ledger items only when clearly resolved or approved.
+8. Update the ledger with status, next check, and learning when useful.
 
 ## Output
 

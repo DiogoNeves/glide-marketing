@@ -11,6 +11,7 @@ Purpose: review marketing progress, decisions, metrics, follow-through, and the 
 5. Which decisions are blocked?
 6. Which contradictions or risks need attention?
 7. What should be stopped, deferred, simplified, or delegated?
+8. What daily watchlist checks should be added, removed, or quieted?
 
 ## Planning
 

@@ -19,7 +19,9 @@ Purpose: keep Glide operations aligned with `Harness Design Principles.md`.
 2. Fix only clear non-behavioral issues directly.
 3. Reduce verbosity in newly edited instructions when clarity and behavior stay intact.
 4. Ask before behavior-changing edits.
-5. Do not edit company memory files except for clearly stale collection-candidate cleanup.
+5. Preserve minimal scheduled prompts and approval boundaries.
+6. Confirm daily check-ins still route through skills/checklists, watchlist, and ledger.
+7. Do not edit company memory files except for clearly stale collection-candidate cleanup.
 
 ## Output
 

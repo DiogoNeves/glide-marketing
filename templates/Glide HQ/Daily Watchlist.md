@@ -12,12 +12,13 @@ This file should be created during installation and refined during the first fiv
 - Prefer read/fetch access; external changes require approval.
 - Link important unresolved items to `Follow-Through Ledger.md`.
 - During the first five daily check-ins, ask for more direction and refine this file from the answers.
+- For each check, define what the agent should do when signal appears.
 
 ## Checks
 
-| Check | Why It Matters | Source / Connector Needed | Access Status | Output Preference | Ledger Link |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| Check | Why It Matters | Source / Connector Needed | Access Status | If Signal Appears | Output Preference | Ledger Link |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
 
 ## Access Gaps
 
