@@ -9,7 +9,7 @@ The installer should:
 1. Start from the root of the target Markdown workspace, company repo, or shared docs folder.
 2. Inspect existing files without changing anything.
 3. Ask which harness is being used: Codex, Claude Code, other, or manual.
-4. Draft company and marketing context from existing materials when possible.
+4. Draft current pain, goals, process, company, and marketing context from existing materials when possible.
 5. Ask what the user wants checked daily.
 6. Work with the user to confirm Glide has access to the needed context and connectors.
 7. Ask focused questions to correct or fill the context.
@@ -59,7 +59,7 @@ Recommended mappings:
 
 Create the root instruction file if missing. If it exists, append or update a clearly marked Glide section and leave unrelated instructions intact.
 
-## Step 3: Draft Company And Marketing Context
+## Step 3: Draft Pain, Goals, Process, Company, And Marketing Context
 
 Prefer draft-then-ask.
 
@@ -71,12 +71,15 @@ Read available materials and draft:
 
 Then ask:
 
+- What is painful, noisy, slow, or repeatedly dropped right now?
+- What goals should marketing help move?
+- What is the current process for planning, execution, review, and follow-through?
 - What is wrong?
 - What is missing?
 - What is uncertain?
 - What should marketing optimize for right now?
 
-Do not turn missing fields into homework. Ask only the questions that materially improve early recommendations.
+Do not turn missing fields into homework. Ask only the questions that materially improve early recommendations or daily operation.
 
 ## Step 4: Define Daily Checks And Access
 
@@ -101,6 +104,8 @@ For each requested check:
 3. Check whether the harness already has read/fetch access.
 4. If access is missing, record the gap and ask how the user wants to provide it.
 5. Add any important ongoing commitment to `Follow-Through Ledger.md`.
+
+During the first five daily check-ins, ask for more direction each day unless the user opts out. Use the answers to refine pain, goals, process, watchlist, connector access, communication preferences, and ledger behavior.
 
 ## Step 5: Install
 

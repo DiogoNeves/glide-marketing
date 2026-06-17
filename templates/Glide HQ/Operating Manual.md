@@ -25,7 +25,7 @@
 
 - Company facts become `Company Context.md`.
 - Marketing facts become `Marketing Context.md`.
-- Marketing preferences become `Marketing Lead Brief.md` or `Communication Preferences.md`.
+- Current pain, goals, process, and marketing preferences become `Marketing Lead Brief.md` or `Communication Preferences.md`.
 - Promises and waiting threads become `Follow-Through Ledger.md`.
 - Important decisions become `Decision Log.md`.
 - Missing context becomes `Questions Queue.md`.

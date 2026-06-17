@@ -31,6 +31,8 @@ Glide loads company context, marketing context, GTM, analytics, lifecycle, custo
 
 Glide keeps its internal memory and working structure in `Glide HQ/`. It can read company docs, repos, tools, and external sources when allowed, but it should not modify external systems without explicit approval.
 
+During setup and the first few daily check-ins, Glide tries to understand the current pain, goals, process, and access needed to make the daily loop genuinely useful.
+
 ## Included
 
 - `templates/Glide HQ/`: installable marketing operating workspace.
@@ -57,4 +59,3 @@ See [docs/PRIVACY.md](docs/PRIVACY.md).
 ## Inspiration
 
 Glide Marketing is inspired by [Marketing Skills](https://github.com/coreyhaines31/marketingskills), especially the idea that one canonical context document should feed many specialized skills. Glide Marketing keeps that pattern while adding self-evolving operating memory, follow-through, drift review, and approval boundaries.
-

@@ -27,12 +27,14 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 2. Scan `Daily Watchlist.md`, priorities, follow-through, decisions, questions, contradictions, and relevant area files.
 3. Fetch from configured connectors only when the watchlist or current context makes it useful.
 4. Choose the smallest useful output.
-5. During the first week of usage, occasionally ask one light calibration question about the daily update's signal, noise, timing, tone, length, missing context, or preferred action level.
+5. During the first five daily check-ins, ask one useful direction question unless the user opts out. Focus on current pain, goals, process, missing access, signal quality, timing, tone, length, or preferred action level.
 6. Draft external actions only for approval.
-7. Update Glide HQ as the conversation progresses, including durable calibration preferences, watchlist changes, access gaps, and ledger updates.
+7. Keep the update brief, and offer one or two optional paths to explore more when there is a useful deeper thread.
+8. Update Glide HQ as the conversation progresses, including durable calibration preferences, watchlist changes, access gaps, and ledger updates.
 
 ## Output
 
 - One concise question, risk, opportunity, contradiction, follow-through nudge, or short bundle.
-- A light calibration question during the first week when useful.
+- One direction question during each of the first five daily check-ins unless the user opts out.
+- Optional suggestions for deeper exploration, kept brief.
 - Daily watchlist and follow-through ledger updates when useful.

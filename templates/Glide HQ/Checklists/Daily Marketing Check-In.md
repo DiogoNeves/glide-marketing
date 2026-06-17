@@ -44,6 +44,8 @@ Surface the smallest useful item:
 
 Keep it conversational. Do not make it feel like homework.
 
+When there is more to unpack, add a brief invitation with one or two useful directions, such as checking the evidence, turning it into an experiment, reviewing access, or updating the watchlist.
+
 ## Watchlist And Ledger
 
 - Use `Daily Watchlist.md` as the default source for what to check.
@@ -51,13 +53,13 @@ Keep it conversational. Do not make it feel like homework.
 - Update `Follow-Through Ledger.md` when a daily check creates, clarifies, advances, or closes a commitment.
 - Add new daily-check preferences to `Daily Watchlist.md` as the user gives guidance.
 
-## First Week Calibration
+## First Five Check-Ins
 
-During the first week of daily check-ins, proactively ask for light guidance on whether the update was useful.
+During the first five daily check-ins, ask for more direction so Glide learns the user's pain, goals, process, and daily operating needs.
 
-- Ask only one calibration question at a time.
-- Ask about signal, noise, timing, tone, length, missing context, or preferred action level.
-- Do not make every check-in about feedback; include calibration when it naturally fits.
+- Ask one direction question per day unless the user opts out.
+- Ask about current pain, goals, process, signal, noise, timing, tone, length, missing context, missing access, or preferred action level.
+- Keep the main update short before asking.
 - Capture durable preferences in `Marketing Lead Brief.md` or `Communication Preferences.md`.
 - Use calibration answers to refine `Daily Watchlist.md` and ledger behavior.
 

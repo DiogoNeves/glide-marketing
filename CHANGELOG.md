@@ -4,6 +4,12 @@ Notable changes to Glide Marketing.
 
 ## 2026-06-17
 
+### Added First Five Daily Direction Loop
+
+- Made current pain, goals, and operating process part of setup.
+- Updated daily check-ins to ask for direction during the first five days.
+- Kept daily updates brief while offering small options to explore more.
+
 ### Added Daily Watchlist Setup
 
 - Added `Daily Watchlist.md` for what users want checked daily.

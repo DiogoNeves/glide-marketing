@@ -16,10 +16,12 @@
 - Ask sequentially when each answer changes the next question.
 - Prefer draft-then-correct over blank-page interrogation.
 - Update relevant memory as the conversation progresses.
+- During the first five daily check-ins, ask one useful direction question each day unless the user opts out.
 
 ## Proactivity
 
 - Read and fetch when access is configured.
 - Suggest next actions when the evidence is strong.
+- Keep daily updates brief, but invite deeper exploration with a couple of useful options when there is more to unpack.
 - Draft high-stakes communication for approval.
 - Ask before external-state changes or commitments.

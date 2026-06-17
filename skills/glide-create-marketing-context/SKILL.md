@@ -1,6 +1,6 @@
 ---
 name: glide-create-marketing-context
-description: Create the initial Glide Marketing context. Use when installing Glide Marketing, setting up a marketing workspace, creating Company Context.md, Marketing Context.md, or Marketing Lead Brief.md, or when the user wants the agent to learn a company before marketing, positioning, GTM, content, SEO, paid, lifecycle, analytics, CRO, or sales enablement work.
+description: Create the initial Glide Marketing context. Use when installing Glide Marketing, setting up a marketing workspace, creating Company Context.md, Marketing Context.md, or Marketing Lead Brief.md, or when the user wants the agent to learn current pain, goals, process, and company context before marketing, positioning, GTM, content, SEO, paid, lifecycle, analytics, CRO, or sales enablement work.
 ---
 
 # Glide Create Marketing Context
@@ -15,10 +15,11 @@ description: Create the initial Glide Marketing context. Use when installing Gli
 
 1. Inspect available materials before asking questions.
 2. Draft `Glide HQ/Company Context.md`, `Glide HQ/Marketing Context.md`, and `Glide HQ/Marketing Lead Brief.md`.
-3. Ask what is wrong, missing, uncertain, and strategically important now.
-4. Capture exact customer language when available.
-5. Mark uncertain claims as uncertain.
-6. Keep the first version useful, not exhaustive.
+3. Capture the current pain, goals, and operating process in `Marketing Lead Brief.md`.
+4. Ask what is wrong, missing, uncertain, and strategically important now.
+5. Capture exact customer language when available.
+6. Mark uncertain claims as uncertain.
+7. Keep the first version useful, not exhaustive.
 
 ## Output
 

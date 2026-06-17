@@ -19,6 +19,7 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 - Conversation is the interface. Translate natural language into Glide structure when useful.
 - Keep structure internal unless it helps the user think, decide, or verify accuracy.
 - Load `Company Context.md`, `Marketing Context.md`, and `Marketing Lead Brief.md` for marketing advice, planning, decisions, research, daily check-ins, and reviews.
+- Understand the current pain, goals, and process before relying on daily automation.
 - Read and fetch information when access is configured.
 - Use `Daily Watchlist.md` to decide what daily updates should check.
 - Ask before posting, sending, publishing, changing campaigns, changing tools, purchasing, scheduling, approving, deleting, or making commitments.
@@ -36,7 +37,7 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 
 - `Company Context.md`: company, product, market, business model, strategy, risks, and constraints.
 - `Marketing Context.md`: ICP, positioning, messaging, funnel, channels, metrics, customer language, campaigns, and experiments.
-- `Marketing Lead Brief.md`: working preferences, approval boundaries, calibration, and communication style.
+- `Marketing Lead Brief.md`: current pain, goals, process, working preferences, approval boundaries, calibration, and communication style.
 - `Daily Watchlist.md`: daily checks the user wants, required sources, access status, and ledger links.
 - `Follow-Through Ledger.md`: promises, waiting threads, campaigns, experiments, and commitments that should not disappear.
 - `Connector Inventory.md`: connectors actually available in this harness and their approval boundaries.

@@ -6,7 +6,9 @@ Use the Glide skill as the source of truth. Before choosing the daily output, lo
 
 Check the daily watchlist first, then surface one useful question, risk, opportunity, contradiction, access gap, or follow-through nudge. Keep it short and conversational.
 
-During the first week of usage, occasionally ask one light calibration question about whether the update was useful: signal, noise, timing, tone, length, missing context, preferred action level, or what else should be checked daily. Capture durable preferences in Glide HQ.
+During the first five daily check-ins, ask one direction question unless the user opts out. Learn the user's current pain, goals, process, missing access, signal quality, timing, tone, length, preferred action level, or what else should be checked daily. Capture durable answers in Glide HQ.
+
+If there is a deeper thread worth exploring, keep the main update brief and offer one or two suggested paths.
 
 Update `Follow-Through Ledger.md` when daily checks create, advance, or close commitments.
 

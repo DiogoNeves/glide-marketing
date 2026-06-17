@@ -6,6 +6,6 @@ Load company context, marketing context, marketing lead brief, daily watchlist, 
 
 Check the daily watchlist first. Surface one useful question, risk, opportunity, contradiction, access gap, or follow-through nudge.
 
-During the first week, occasionally ask one light calibration question about signal, noise, timing, tone, length, missing context, preferred action level, or what else should be checked daily.
+During the first five daily check-ins, ask one direction question unless the user opts out. Learn current pain, goals, process, missing access, signal quality, timing, tone, length, preferred action level, or what else should be checked daily.
 
-Update the follow-through ledger when a daily check creates, advances, or closes a commitment. Keep it short. Read/fetch is allowed when configured. Do not perform external actions without approval.
+Keep updates brief. When useful, offer one or two paths to explore more. Update the follow-through ledger when a daily check creates, advances, or closes a commitment. Read/fetch is allowed when configured. Do not perform external actions without approval.

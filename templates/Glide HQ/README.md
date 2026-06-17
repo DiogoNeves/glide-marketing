@@ -10,7 +10,7 @@ Start with:
 - `Harness Design Principles.md` for protected principles.
 - `Company Context.md` for company and product context.
 - `Marketing Context.md` for positioning, funnel, channels, metrics, customer language, and experiments.
-- `Marketing Lead Brief.md` for preferences and approval boundaries.
+- `Marketing Lead Brief.md` for current pain, goals, process, preferences, and approval boundaries.
 - `Daily Watchlist.md` for the things Glide should check every day and the access needed.
 - `Connector Inventory.md` for the tools actually connected to the harness.
 - `Follow-Through Ledger.md` for commitments and waiting threads.
