@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Company Context"
+  short_description: "Marketing operating workflow"
+  default_prompt: "Use $glide-create-marketing-context for this marketing workflow."

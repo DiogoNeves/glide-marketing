@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Drift Review"
+  short_description: "Marketing operating workflow"
+  default_prompt: "Use $glide-marketing-drift-review for this marketing workflow."

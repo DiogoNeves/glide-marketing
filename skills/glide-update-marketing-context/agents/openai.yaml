@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Marketing Context"
+  short_description: "Marketing operating workflow"
+  default_prompt: "Use $glide-update-marketing-context for this marketing workflow."

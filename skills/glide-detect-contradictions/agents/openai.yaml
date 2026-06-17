@@ -1,0 +1,4 @@
+interface:
+  display_name: "Detect Contradictions"
+  short_description: "Marketing operating workflow"
+  default_prompt: "Use $glide-detect-contradictions for this marketing workflow."

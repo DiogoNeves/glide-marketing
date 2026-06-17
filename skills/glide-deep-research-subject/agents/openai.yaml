@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Research Subject"
+  short_description: "Marketing operating workflow"
+  default_prompt: "Use $glide-deep-research-subject for this marketing workflow."

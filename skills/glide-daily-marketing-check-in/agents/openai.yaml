@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Marketing Check In"
+  short_description: "Marketing operating workflow"
+  default_prompt: "Use $glide-daily-marketing-check-in for this marketing workflow."

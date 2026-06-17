@@ -1,0 +1,4 @@
+interface:
+  display_name: "Follow Through Review"
+  short_description: "Marketing operating workflow"
+  default_prompt: "Use $glide-follow-through-review for this marketing workflow."

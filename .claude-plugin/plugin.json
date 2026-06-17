@@ -1,0 +1,13 @@
+{
+  "name": "glide-marketing",
+  "description": "Marketing operating workflows for AI agents using Markdown context",
+  "version": "0.1.0",
+  "author": {
+    "name": "Glide contributors"
+  },
+  "homepage": "https://github.com/DiogoNeves/glide-marketing",
+  "repository": "https://github.com/DiogoNeves/glide-marketing",
+  "license": "MIT",
+  "skills": "./skills"
+}
+
