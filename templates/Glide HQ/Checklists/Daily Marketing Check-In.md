@@ -74,4 +74,4 @@ During the first five daily check-ins, ask for more direction so Glide learns th
 
 - Reading and fetching is allowed when access is configured.
 - Drafting is allowed.
-- Ask before posting, sending, scheduling, changing tools, approving, purchasing, deleting, publishing, or committing the company.
+- Ask before posting marketing material, sending, scheduling, changing tools, approving, purchasing, deleting, publishing, or committing the company.

@@ -10,7 +10,7 @@ Glide Marketing is not an app or SaaS. It is a public set of Markdown templates,
 
 Marketing work gets noisy quickly: positioning, ICP, campaigns, channels, analytics, customer research, content, launches, sales enablement, and half-finished experiments all compete for attention.
 
-Glide Marketing turns that into an agent-readable operating layer. The agent can read, research, synthesize, challenge, draft, and maintain context over time. It can fetch information when access is configured, but it should ask before posting, sending, changing campaigns, publishing, purchasing, scheduling, approving, or making commitments.
+Glide Marketing turns that into an agent-readable operating layer. The agent can read, research, synthesize, challenge, draft, and maintain context over time. It can fetch information when access is configured, but it should ask before posting marketing material, sending, changing campaigns, publishing, purchasing, scheduling, approving, or making commitments.
 
 ## A Small Example
 

@@ -4,6 +4,10 @@ Notable changes to Glide Marketing.
 
 ## 2026-06-17
 
+### Clarified Marketing Posting Approval
+
+- Made explicit that marketing material must not be posted without user approval.
+
 ### Tightened Daily Automation Prompts
 
 - Made daily scheduled prompts minimal and skill-driven.

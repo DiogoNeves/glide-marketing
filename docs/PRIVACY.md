@@ -19,7 +19,7 @@ Connectors can expose sensitive company data. Reading and fetching may be allowe
 Examples of approval-gated actions:
 
 - sending email or messages,
-- posting to social channels,
+- posting marketing material or social updates,
 - changing CRM records,
 - changing analytics or ad accounts,
 - scheduling meetings,

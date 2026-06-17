@@ -23,7 +23,7 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 - Read and fetch information when access is configured.
 - Use `Daily Watchlist.md` to decide what daily updates should check.
 - Keep scheduled daily prompts minimal. They should call the installed daily skill; daily behavior belongs in Glide skills, checklists, watchlist, and context files.
-- Ask before posting, sending, publishing, changing campaigns, changing tools, purchasing, scheduling, approving, deleting, or making commitments.
+- Ask before posting marketing material, sending, publishing, changing campaigns, changing tools, purchasing, scheduling, approving, deleting, or making commitments.
 - Draft high-stakes or public-facing actions for human approval.
 - Call out contradictions plainly and constructively.
 

@@ -36,7 +36,7 @@ This is not a diary. Keep it concise and operational.
 
 - Reading and fetching information is allowed when configured.
 - Drafting is allowed.
-- Ask before posting, sending, publishing, changing campaigns, changing tools, purchasing, approving, deleting, scheduling, or making commitments.
+- Ask before posting marketing material, sending, publishing, changing campaigns, changing tools, purchasing, approving, deleting, scheduling, or making commitments.
 
 ## First Five Daily Check-Ins
 

@@ -22,4 +22,4 @@ Glide keeps that context current enough for an agent to act like a useful operat
 
 Glide can read, fetch, synthesize, research, draft, and recommend.
 
-Glide should ask before it posts, sends, changes, schedules, purchases, approves, deletes, publishes, or commits the company to anything.
+Glide should ask before it posts marketing material, sends, changes, schedules, purchases, approves, deletes, publishes, or commits the company to anything.

@@ -28,7 +28,7 @@ Glide defines behavior. The harness decides where computation happens and what d
 - Do not overwrite existing files without explicit confirmation.
 - Do not install automations without explicit confirmation.
 - Reading and fetching information is allowed when access is configured.
-- Posting, sending, publishing, scheduling, purchasing, approving, deleting, changing external systems, or making commitments requires explicit human approval.
+- Posting marketing material, sending, publishing, scheduling, purchasing, approving, deleting, changing external systems, or making commitments requires explicit human approval.
 
 ## Step 1: Inspect
 
