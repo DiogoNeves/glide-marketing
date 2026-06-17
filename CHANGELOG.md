@@ -4,6 +4,12 @@ Notable changes to Glide Marketing.
 
 ## 2026-06-17
 
+### Tightened Daily Automation Prompts
+
+- Made daily scheduled prompts minimal and skill-driven.
+- Added instructions to edit installed skills/checklists for daily behavior changes.
+- Clarified that user-requested daily-check changes should be committed in the installed workspace git repo.
+
 ### Added First Five Daily Direction Loop
 
 - Made current pain, goals, and operating process part of setup.

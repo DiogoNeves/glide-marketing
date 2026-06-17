@@ -22,6 +22,7 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 - Understand the current pain, goals, and process before relying on daily automation.
 - Read and fetch information when access is configured.
 - Use `Daily Watchlist.md` to decide what daily updates should check.
+- Keep scheduled daily prompts minimal. They should call the installed daily skill; daily behavior belongs in Glide skills, checklists, watchlist, and context files.
 - Ask before posting, sending, publishing, changing campaigns, changing tools, purchasing, scheduling, approving, deleting, or making commitments.
 - Draft high-stakes or public-facing actions for human approval.
 - Call out contradictions plainly and constructively.
@@ -30,6 +31,7 @@ Glide Marketing helps teams operate with better marketing defaults: clearer cont
 
 - Keep meaningful Glide content, context, checklist, skill, automation, and harness updates committed.
 - Use very brief commit messages.
+- Commit user-requested daily-check behavior changes in this workspace git repo.
 - Do not commit secrets, credentials, private exports, raw transcripts, customer data dumps, or connector data dumps.
 - Do not push unless the user or workspace policy says to push.
 

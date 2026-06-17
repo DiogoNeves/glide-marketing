@@ -4,6 +4,8 @@ Proposed and active Glide automations.
 
 Glide itself does not run automations. The selected harness decides whether automations are supported and how they are configured.
 
+Scheduled prompts should stay minimal and call the installed skill. Update skills, checklists, watchlists, or context files when behavior changes.
+
 | Name | Status | Cadence | Scope | Skill | Output | Last Review |
 | --- | --- | --- | --- | --- | --- | --- |
 | [[Automations/Daily Marketing Check-In]] | Proposed | Daily or weekdays | Company context, marketing context, marketing lead brief, follow-through, area reminders, questions, decisions, contradictions, configured connectors | `glide-daily-marketing-check-in` | One useful question, risk, opportunity, or follow-through nudge | |

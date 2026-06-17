@@ -53,6 +53,13 @@ When there is more to unpack, add a brief invitation with one or two useful dire
 - Update `Follow-Through Ledger.md` when a daily check creates, clarifies, advances, or closes a commitment.
 - Add new daily-check preferences to `Daily Watchlist.md` as the user gives guidance.
 
+## Scheduled Prompt
+
+- Keep the daily schedule prompt minimal. It should call the installed `glide-daily-marketing-check-in` skill for this workspace.
+- Do not copy this checklist into the scheduler.
+- When the user asks to change daily behavior, update the installed skill, this checklist, `Daily Watchlist.md`, or the relevant Glide HQ context.
+- Commit those user-requested daily-check changes to the workspace git repo with a brief message.
+
 ## First Five Check-Ins
 
 During the first five daily check-ins, ask for more direction so Glide learns the user's pain, goals, process, and daily operating needs.

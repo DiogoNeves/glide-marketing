@@ -17,7 +17,7 @@ The installer should:
 9. Create or update the root harness instruction file.
 10. Inspect available harness connectors and record what is actually connected.
 11. Initialize git if the workspace is not already a repository.
-12. Offer starter automations after explicit confirmation.
+12. Offer starter automations after explicit confirmation, using minimal schedule prompts that call installed Glide skills.
 
 Glide defines behavior. The harness decides where computation happens and what data is sent.
 
@@ -119,6 +119,7 @@ After confirmation:
 6. Create or update `Glide HQ/Daily Watchlist.md` from the user's desired daily checks.
 7. If the workspace is not already a git repository, run `git init` after confirmation.
 8. Add the Glide root instruction section telling agents to keep useful content and harness updates committed with very short commit messages.
+9. Keep scheduled automation prompts minimal; detailed behavior belongs in installed Glide skills and checklists.
 
 ## Step 6: Offer Starter Automations
 
@@ -131,6 +132,14 @@ Offer only:
 
 Confirm before enabling any automation. If the harness does not support automations, keep the prompts as proposed manual automations in `Glide HQ/Automations/`.
 
+For daily checks, the schedule prompt should only call the installed daily skill, such as:
+
+```text
+Run the installed glide-daily-marketing-check-in skill for this workspace.
+```
+
+Do not duplicate daily behavior inside the scheduler. When the user asks to change daily checks, update the installed skill, checklist, watchlist, or Glide HQ context in the workspace, then commit those changes to the user's git repository in that folder.
+
 ## Step 7: Git Hygiene
 
 If the workspace has no git repository, initialize one after installation confirmation.
@@ -139,6 +148,7 @@ Root harness instructions should say:
 
 - Keep meaningful Glide content, context, checklist, skill, automation, and harness updates committed.
 - Use very brief commit messages, such as `Update company context`, `Add GTM question`, `Refresh follow-through`, or `Tighten harness rules`.
+- Commit user-requested daily-check behavior changes in the installed workspace git repo.
 - Do not commit secrets, credentials, private exports, raw transcripts, or connector data dumps.
 - Do not push unless the user or workspace policy says to push.
 

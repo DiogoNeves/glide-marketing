@@ -32,6 +32,13 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 7. Keep the update brief, and offer one or two optional paths to explore more when there is a useful deeper thread.
 8. Update Glide HQ as the conversation progresses, including durable calibration preferences, watchlist changes, access gaps, and ledger updates.
 
+## Automation Contract
+
+- Keep the scheduled automation prompt minimal; it should only call this installed skill for the workspace.
+- Do not duplicate the daily process inside the scheduler.
+- When the user asks to change daily behavior, update the installed skill, checklist, watchlist, or Glide HQ context in the workspace.
+- Commit user-requested daily-check behavior changes to the git repo in the installed workspace with a brief commit message.
+
 ## Output
 
 - One concise question, risk, opportunity, contradiction, follow-through nudge, or short bundle.
