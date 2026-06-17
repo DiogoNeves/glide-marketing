@@ -17,13 +17,14 @@ description: Research a repeatable marketing process and turn it into a concise 
 
 1. Clarify the repeatable marketing job and what good output looks like.
 2. Research the process using current sources, expert practice, user examples, and existing company context.
-3. Separate durable workflow steps from one-off advice.
-4. Design the skill as a small utility with clear trigger metadata.
-5. Keep the body concise; move only genuinely reusable detail into references.
-6. Add approval boundaries for posting, sending, publishing, campaign changes, spend, or external-system changes.
-7. Create or update the skill in the installed skill directory.
-8. Validate the skill.
-9. Update `Glide HQ/Skills Index.md` and commit the change in the installed workspace git repo when the user asked for the behavior.
+3. Inspect optional external skill packs only when the user asks or they are already present in the workspace.
+4. Separate durable workflow steps from one-off advice.
+5. Design the skill as a small utility with clear trigger metadata.
+6. Keep the body concise; move only genuinely reusable detail into references.
+7. Add approval boundaries for posting, sending, publishing, campaign changes, spend, or external-system changes.
+8. Create or update the skill in the installed skill directory.
+9. Validate the skill.
+10. Update `Glide HQ/Skills Index.md` and commit the change in the installed workspace git repo when the user asked for the behavior.
 
 ## Skill Shape
 
@@ -32,6 +33,7 @@ description: Research a repeatable marketing process and turn it into a concise 
 - Prefer steps over philosophy.
 - Make outputs concrete.
 - Keep schedule prompts minimal; recurring behavior belongs in the skill.
+- Do not copy large external skill packs into Glide by default; adapt only the small process the user needs.
 
 ## Output
 

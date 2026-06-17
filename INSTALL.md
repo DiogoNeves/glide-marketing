@@ -121,7 +121,23 @@ For each requested check:
 
 During the first five daily check-ins, ask for more direction each day unless the user opts out. Use the answers to refine pain, goals, process, watchlist, connector access, communication preferences, and ledger behavior.
 
-## Step 5: Install
+## Step 5: Optional Skill Packs
+
+Do not install external marketing skill packs by default.
+
+If the user wants specialized marketing workflows, offer to inspect an external skill pack or existing internal process, then use `glide-create-marketing-skill` to create only the small utility skill they need. See `docs/OPTIONAL_SKILL_PACKS.md`.
+
+Good candidates:
+
+- content repurposing,
+- customer research synthesis,
+- newsletter review,
+- SEO/content brief review,
+- competitor monitoring,
+- launch checklist,
+- social post drafting from existing content.
+
+## Step 6: Install
 
 After confirmation:
 
@@ -137,7 +153,7 @@ After confirmation:
 10. Add the Glide root instruction section telling agents to keep useful content and harness updates committed with very short commit messages.
 11. Keep scheduled automation prompts minimal; detailed behavior belongs in installed Glide skills and checklists.
 
-## Step 6: Offer Starter Automations
+## Step 7: Offer Starter Automations
 
 Offer only:
 
@@ -154,7 +170,7 @@ Run the installed glide-daily-marketing-check-in skill for this workspace.
 
 Do not duplicate daily behavior inside the scheduler. When the user asks to change daily checks, update the installed skill, checklist, watchlist, or Glide HQ context in the workspace, then commit those changes to the user's git repository in that folder.
 
-## Step 7: Git Hygiene
+## Step 8: Git Hygiene
 
 If the workspace has no git repository, initialize one after installation confirmation.
 
@@ -166,7 +182,7 @@ Root harness instructions should say:
 - Do not commit secrets, credentials, private exports, raw transcripts, or connector data dumps.
 - Do not push unless the user or workspace policy says to push.
 
-## Step 8: Connector Inventory
+## Step 9: Connector Inventory
 
 Assume Codex or Claude Code may already have useful connectors, but do not rely on a static registry.
 

@@ -41,8 +41,8 @@ During setup and the first few daily check-ins, Glide tries to understand the cu
 - `skills/`: portable Agent Skills prefixed with `glide-`.
 - `automations/`: starter automation prompts.
 - `adapters/`: Codex, Claude Code, and generic harness snippets.
-- `docs/`: concept, privacy, harness, and release checks.
-- `examples/`: short examples for common marketing workflows.
+- `docs/`: concept, privacy, harness, optional skill-pack, and release checks.
+- `examples/`: short examples and lightweight eval scenarios.
 
 ## Install
 

@@ -43,6 +43,14 @@ Surface the smallest useful item:
 
 Keep it conversational. Do not make it feel like homework.
 
+## Daily Output Contract
+
+- Lead with the useful signal or question.
+- Keep the default update under five short bullets.
+- Mention source/access gaps only when they block a useful check or need user action.
+- Include approval-needed drafts only as drafts.
+- End with one small optional path when deeper work would help.
+
 When there is more to unpack, add a brief invitation with one or two useful directions, such as checking the evidence, turning it into an experiment, reviewing access, or updating the watchlist.
 
 ## Watchlist And Ledger

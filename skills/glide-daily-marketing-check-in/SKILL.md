@@ -48,3 +48,11 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 - One direction question during each of the first five daily check-ins unless the user opts out.
 - Optional suggestions for deeper exploration, kept brief.
 - Daily watchlist and follow-through ledger updates when useful.
+
+## Quality Bar
+
+- Lead with the useful signal or question.
+- Keep the default update under five short bullets.
+- Do not mention quiet ledger items.
+- Mention access gaps only when they block a useful check or need user action.
+- Never present drafts as sent, posted, approved, or scheduled.

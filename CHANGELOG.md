@@ -4,6 +4,12 @@ Notable changes to Glide Marketing.
 
 ## 2026-06-17
 
+### Added Marketing Harness Evals
+
+- Added setup, daily signal, content drafting, and research-to-skill evaluation scenarios.
+- Added optional external skill-pack guidance.
+- Tightened daily output quality and source/content setup questions.
+
 ### Simplified Marketing Setup
 
 - Refocused setup on source access, existing content, daily signals, marketing research, content drafting, and drift review.
