@@ -28,7 +28,7 @@ This file should be created during installation and refined during the first fiv
 
 ## First Five Calibration
 
-Use this lightly. Keep daily updates brief, then ask one direction question or offer one small menu of useful paths to explore.
+Use this lightly. Daily updates should prefer one item, then ask one direction question or offer one small menu of useful paths to explore when helpful. Use two or three items only when each is genuinely urgent or very important.
 
 | Day | Direction Learned | Watchlist / Access / Ledger Change |
 | --- | --- | --- |

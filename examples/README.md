@@ -4,7 +4,7 @@ Short examples of Glide workflows.
 
 ## Daily Marketing Check-In
 
-The agent reads `Source Map.md`, `Content Library.md`, `Marketing Context.md`, `Daily Watchlist.md`, and `Follow-Through Ledger.md`, then surfaces one useful signal, question, risk, content opportunity, or follow-through nudge.
+The agent reads `Source Map.md`, `Content Library.md`, `Marketing Context.md`, `Daily Watchlist.md`, and `Follow-Through Ledger.md`, then surfaces one useful signal, question, risk, content opportunity, or follow-through nudge. It only adds a second or third item when each one is urgent or very important.
 
 ## Marketing Research
 

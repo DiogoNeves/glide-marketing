@@ -29,7 +29,7 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 3. Scan `Daily Watchlist.md`, priorities, follow-through, decisions, questions, and contradictions.
 4. Review `Follow-Through Ledger.md` for due, stale, high-stakes, or newly actionable items.
 5. Fetch from configured connectors only when the watchlist or current context makes it useful.
-6. Choose the smallest useful output.
+6. Choose the smallest useful output: prefer one item; use two or three only when each is genuinely urgent or very important.
 7. During the first five daily check-ins, ask one useful direction question unless the user opts out. Focus on current pain, goals, process, missing access, signal quality, timing, tone, length, or preferred action level.
 8. Draft external actions only for approval.
 9. Keep the update brief, and offer one or two optional paths to explore more when there is a useful deeper thread.
@@ -44,7 +44,9 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 
 ## Output
 
-- One concise question, risk, opportunity, contradiction, follow-through nudge, or short bundle.
+- One concise question, risk, opportunity, contradiction, or follow-through nudge by default.
+- Two or three items only when each is genuinely urgent or very important.
+- Never surface more than three items. If more than three may matter, say: `Hey, there are other things that might be important. Do you want me to continue?`
 - One direction question during each of the first five daily check-ins unless the user opts out.
 - Optional suggestions for deeper exploration, kept brief.
 - Daily watchlist and follow-through ledger updates when useful.
@@ -52,7 +54,7 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 ## Quality Bar
 
 - Lead with the useful signal or question.
-- Keep the default update under five short bullets.
+- Prefer one item. Use two or three only when each is genuinely urgent or very important.
 - Do not mention quiet ledger items.
 - Mention access gaps only when they block a useful check or need user action.
 - Never present drafts as sent, posted, approved, or scheduled.

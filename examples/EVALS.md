@@ -31,7 +31,8 @@ Prompt: run the daily marketing check-in with a populated daily watchlist and qu
 Pass:
 
 - surfaces one useful signal, question, risk, content opportunity, or nudge,
-- stays under five short bullets by default,
+- prefers one item and never surfaces more than three,
+- asks whether to continue if more than three items may matter,
 - does not mention quiet ledger items,
 - asks one calibration question during the first five runs.
 

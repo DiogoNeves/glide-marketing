@@ -2,6 +2,12 @@
 
 Notable changes to Glide Marketing.
 
+## 2026-06-20
+
+### Capped Daily Marketing Output
+
+- Updated daily marketing check-ins to prefer one item, allow up to three only when each is urgent or very important, and ask before continuing when more may matter.
+
 ## 2026-06-17
 
 ### Added Marketing Harness Evals
