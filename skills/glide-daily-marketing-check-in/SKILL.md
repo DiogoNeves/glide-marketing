@@ -30,10 +30,12 @@ description: Run a concise daily marketing check-in. Use for morning operating r
 4. Review `Follow-Through Ledger.md` for due, stale, high-stakes, or newly actionable items.
 5. Fetch from configured connectors only when the watchlist or current context makes it useful.
 6. Choose the smallest useful output: prefer one item; use two or three only when each is genuinely urgent or very important.
-7. During the first five daily check-ins, ask one useful direction question unless the user opts out. Focus on current pain, goals, process, missing access, signal quality, timing, tone, length, or preferred action level.
-8. Draft external actions only for approval.
-9. Keep the update brief, and offer one or two optional paths to explore more when there is a useful deeper thread.
-10. Update Glide HQ as the conversation progresses, including durable calibration preferences, watchlist changes, access gaps, and ledger updates.
+7. When signals compete, rank candidates by concrete deadline, date, amount, marketing or company stakes, source reliability, and whether the marketing lead can usefully act today.
+8. When email, calendar, Things, Messages, CRM, analytics, or app data disagree, prefer the source of record, confirmation email, or official app over auto-created calendar or task artifacts, and mention the caveat briefly.
+9. During the first five daily check-ins, ask one useful direction question unless the user opts out. Focus on current pain, goals, process, missing access, signal quality, timing, tone, length, or preferred action level.
+10. Draft external actions only for approval.
+11. Keep the update brief, and offer one or two optional paths to explore more when there is a useful deeper thread.
+12. Update Glide HQ as the conversation progresses, including durable calibration preferences, watchlist changes, access gaps, and ledger updates.
 
 ## Automation Contract
 

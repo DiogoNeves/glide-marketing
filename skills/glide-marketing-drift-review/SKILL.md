@@ -10,18 +10,20 @@ description: Review Glide operating files for drift against Harness Design Princ
 - `Glide HQ/Harness Design Principles.md`
 - `Glide HQ/Checklists/Marketing Drift Review.md`
 - Operational files listed in the checklist
+- `Glide HQ/Evals/*.md` or repo eval files if present, as read-only evidence
 - Installed `glide-*` skills
 
 ## Process
 
 1. Treat `Harness Design Principles.md` as read-only unless the user explicitly asks to edit it.
 2. Review operating files for drift.
-3. Fix only clear non-behavioral issues directly.
-4. Reduce verbosity when clarity and behavior survive.
-5. Ask before behavior-changing edits.
-6. Preserve human-approval boundaries for external actions.
-7. Preserve minimal scheduled prompts; daily behavior should live in skills, checklists, watchlist, and ledger.
-8. Confirm the follow-through ledger still has enough structure to protect commitments without becoming a task manager.
+3. Treat recurring `Improve Next` notes and `Partial` outcomes in evals as candidates for small instruction updates.
+4. Fix only clear non-behavioral issues directly.
+5. Reduce verbosity when clarity and behavior survive.
+6. Ask before behavior-changing edits.
+7. Preserve human-approval boundaries for external actions.
+8. Preserve minimal scheduled prompts; daily behavior should live in skills, checklists, watchlist, and ledger.
+9. Confirm the follow-through ledger still has enough structure to protect commitments without becoming a task manager.
 
 ## Output
 

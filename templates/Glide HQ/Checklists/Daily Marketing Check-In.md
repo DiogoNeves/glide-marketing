@@ -52,6 +52,10 @@ Keep it conversational. Do not make it feel like homework.
 - Include approval-needed drafts only as drafts.
 - End with one small optional path when deeper work would help.
 
+When signals compete, rank candidates by concrete deadline, date, amount, marketing or company stakes, source reliability, and whether the marketing lead can usefully act today. Keep one primary touch, with secondary items only for true urgency or importance.
+
+When email, calendar, Things, Messages, CRM, analytics, or app data disagree, prefer the source of record, confirmation email, or official app over auto-created calendar or task artifacts, and mention the caveat briefly.
+
 When there is more to unpack, add a brief invitation with one or two useful directions, such as checking the evidence, turning it into an experiment, reviewing access, or updating the watchlist.
 
 ## Watchlist And Ledger
