@@ -12,3 +12,4 @@ Installed Glide utility skills.
 - `glide-detect-contradictions`: find tensions across context, goals, metrics, and behavior.
 - `glide-marketing-drift-review`: keep Glide operations aligned with design principles.
 - `glide-nightly-marketing-research-review`: run quiet 4am research, memory, eval, and source/content maintenance.
+- `glide-check-for-updates`: check upstream Glide Marketing releases and apply compatible migration notes.

@@ -14,6 +14,7 @@ Start with:
 - `Marketing Context.md` for positioning, funnel, channels, metrics, customer language, and experiments.
 - `Marketing Lead Brief.md` for current pain, goals, process, preferences, and approval boundaries.
 - `Daily Watchlist.md` for the signals Glide should check every day and the access needed.
+- `Glide Updates.md` for upstream release and migration state.
 - `Evals/Nightly Research Audit.md` for the rolling internal audit of quiet research maintenance.
 - `Connector Inventory.md` for the tools actually connected to the harness.
 - `Follow-Through Ledger.md` for commitments and waiting threads.

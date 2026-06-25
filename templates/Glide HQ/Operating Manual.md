@@ -19,6 +19,7 @@
 - New marketing utility skill: use `glide-create-marketing-skill`.
 - Research: use `Research/AGENTS.md`.
 - Nightly marketing research review: use `Checklists/Nightly Marketing Research Review.md`.
+- Glide update check: use `Checklists/Glide Update Check.md`.
 - Drift review: use `Checklists/Marketing Drift Review.md`.
 
 ## Translation Layer
