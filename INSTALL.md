@@ -159,6 +159,7 @@ Offer only:
 
 - Daily Marketing Check-In
 - Marketing Drift Review
+- Nightly Marketing Research Review
 
 Confirm before enabling any automation. If the harness does not support automations, keep the prompts as proposed manual automations in `Glide HQ/Automations/`.
 
@@ -169,6 +170,8 @@ Run the installed glide-daily-marketing-check-in skill for this workspace.
 ```
 
 Do not duplicate daily behavior inside the scheduler. When the user asks to change daily checks, update the installed skill, checklist, watchlist, or Glide HQ context in the workspace, then commit those changes to the user's git repository in that folder.
+
+For nightly research reviews, the schedule prompt should only call the installed nightly research skill.
 
 ## Step 8: Git Hygiene
 

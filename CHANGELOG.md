@@ -2,6 +2,13 @@
 
 Notable changes to Glide Marketing.
 
+## 2026-06-25
+
+### Added Nightly Marketing Research Review
+
+- Added a quiet 4am marketing research and memory maintenance skill, checklist, automation prompt, and rolling 4-day audit.
+- Updated automation adapters to include the nightly review and keep scheduled prompts minimal.
+
 ## 2026-06-20
 
 ### Capped Daily Marketing Output

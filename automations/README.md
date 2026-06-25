@@ -6,6 +6,7 @@ Install only after confirmation:
 
 - Daily Marketing Check-In
 - Marketing Drift Review
+- Nightly Marketing Research Review
 
 If the harness does not support automations, keep these as proposed manual prompts in `Glide HQ/Automations/`.
 

@@ -39,7 +39,7 @@ During setup and the first few daily check-ins, Glide tries to understand the cu
 
 - `templates/Glide HQ/`: installable marketing operating workspace.
 - `skills/`: portable Agent Skills prefixed with `glide-`.
-- `automations/`: starter automation prompts.
+- `automations/`: starter automation prompts, including a quiet 4am research review.
 - `adapters/`: Codex, Claude Code, and generic harness snippets.
 - `docs/`: concept, privacy, harness, optional skill-pack, and release checks.
 - `examples/`: short examples and lightweight eval scenarios.

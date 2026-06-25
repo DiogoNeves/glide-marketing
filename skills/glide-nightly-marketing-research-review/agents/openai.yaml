@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nightly Marketing Research Review"
+  short_description: "Quiet marketing research maintenance"
+  default_prompt: "Use $glide-nightly-marketing-research-review for this marketing workspace."

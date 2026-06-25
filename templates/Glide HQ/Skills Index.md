@@ -11,3 +11,4 @@ Installed Glide utility skills.
 - `glide-follow-through-review`: review promises, waiting threads, and commitments.
 - `glide-detect-contradictions`: find tensions across context, goals, metrics, and behavior.
 - `glide-marketing-drift-review`: keep Glide operations aligned with design principles.
+- `glide-nightly-marketing-research-review`: run quiet 4am research, memory, eval, and source/content maintenance.
